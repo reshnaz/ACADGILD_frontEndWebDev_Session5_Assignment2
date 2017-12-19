@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
+  // Creating inline HTML that displays text box and login button
   template: `
   <div id="login" class="container">
     <div class="row">

@@ -1,5 +1,7 @@
 # S5A2
 
+Note: Changes are made to files "app.component.ts" and "styles.css" (for global styles).
+
 ## Problem Statement
 
 1. Add bootstrap and jquery library in your project.
